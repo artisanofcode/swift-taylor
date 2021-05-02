@@ -2,11 +2,16 @@
 
 Taylor makes beautiful words happen, a Lorem Ipsum generator for Swift.
 
-## Installing
+## 🛠 Installing
 
-Taylor can be installed using Swift Package Manager.
+### Swift Package Manager
 
-## Usage
+Please see see [the WWDC presentation](https://developer.apple.com/videos/play/wwdc2019/408/) for
+instructions on using Swift packages in your application.
+
+Use `https://github.com/artisanfcode/swift-taylor.git` as url for the `Taylor` package dependency.
+
+## 🎓 Usage
 
 Taylor provides static methods for generating different types of text.
 
@@ -48,10 +53,15 @@ Generate a capitalised title.
 let title = Taylor.title()
 ```
 
-## Licence
+## ⚖️ Licence
 
 This project is licensed under the [MIT licence](http://dan.mit-license.org/).
 
-## Meta
+All documentation and images are licenced under the 
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc_by_sa].
+
+[cc_by_sa]: https://creativecommons.org/licenses/by-sa/4.0/
+
+## 📝 Meta
 
 This project uses [Semantic Versioning](http://semver.org/).
